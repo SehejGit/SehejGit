@@ -16,3 +16,6 @@ Currently, I’m a Machine Learning Engineer Intern at ArsLab, working on AI-dri
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 Hey there! I’m Sehej Singh, a Data Scientist & Machine Learning Engineer with experience in predictive modeling, NLP, and AI-powered applications. I specialize in leveraging Python, PyTorch, scikit-learn, and Spark to build intelligent solutions that enhance decision-making and automate workflows.
+
+Currently, I’m a Machine Learning Engineer Intern at ArsLab, working on AI-driven chatbots using RAG, GPUs, and Hugging Face models. I’m also pursuing my Master’s in Data Science at the University of San Francisco.
