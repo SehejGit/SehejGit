@@ -29,7 +29,7 @@ Currently, I’m a Machine Learning Engineer Intern at ArsLab, working on AI-dri
 🌍 English-to-Punjabi Translator → A Streamlit app powered by OpenAI, simplifying English-to-Punjabi translations for better accessibility.
 
 🛠️ Tech Stack
-	•	Languages: Python, SQL, R
+	•	Languages: Python, SQL, R  
 	•	ML & AI: PyTorch, scikit-learn, TensorFlow, Hugging Face
 	•	Data Engineering: Spark, Airflow, MongoDB
 	•	DevOps & Tools: Docker, Git, GCP, AWS, Snowflake
