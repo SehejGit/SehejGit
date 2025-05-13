@@ -26,7 +26,7 @@ Currently, I'm a Machine Learning Engineer Intern at ArsLab, working on AI-drive
 A breakthrough in personalized fitness technology that merges machine learning algorithms with accessible user interfaces. FitAI dynamically generates customized exercise routines and provides real-time form analysis through computer vision, creating a virtual personal trainer experience that adapts to individual needs. The system employs a sophisticated pipeline from workout generation through video analysis, offering instantaneous corrective feedback to improve exercise technique and effectiveness.
 
 ### 📰 Fake News Detector
-An end-to-end pipeline for fake news classification that processes text data through multiple stages: web scraping → preprocessing → feature extraction (TF-IDF, BERT embeddings) → model training (ensemble of LSTM and Transformer models) → evaluation → deployment. Achieves 93% accuracy on unseen articles by combining linguistic pattern recognition with contextual understanding. The pipeline runs on Airflow with continuous retraining for evolving misinformation patterns.
+An end-to-end pipeline for fake news classification that processes text data through multiple stages: web scraping → preprocessing → feature extraction → model training → evaluation → deployment. Achieves 93% accuracy on unseen articles by combining linguistic pattern recognition with contextual understanding. The pipeline runs on Airflow with continuous retraining for evolving misinformation patterns.
 
 ### 💡 Lofi Mood Setter
 A Spotify-powered app that curates personalized lofi playlists based on user mood and activity.
